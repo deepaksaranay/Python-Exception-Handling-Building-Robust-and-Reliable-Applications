@@ -1,4 +1,4 @@
-# GenAI Assignment 6 - Exception Handling
+# GenAI  - Exception Handling
 
 Files Included:
 - task1_safe_division.py
